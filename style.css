@@ -84,6 +84,10 @@ header .col-md-auto a {
     display: flex;
 }
 
+#projects .card {
+    cursor: pointer;
+}
+
 #reviews {
     background: rgba(6, 29, 76, 0.07);
     display: flex;
