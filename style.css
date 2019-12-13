@@ -40,6 +40,51 @@ header .col-md-auto a {
     font-weight: 500;
 }
 
+.carousel-3d-top-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    border-bottom: 1px white solid;
+}
+
+.carousel-3d-top {
+    display: flex;
+    text-transform: uppercase;
+    justify-content: space-around;
+    font-weight: 700;
+    width: 65%;
+    list-style: none;
+    margin: 0;
+}
+
+.carousel-3d-top a {
+    color: white;
+    text-decoration: none;
+}
+
+#carousel-3d {
+    background: url(./assets/img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#carousel-3d,
+#carousel {
+    height: 800px;
+}
+
+#carousel-3d #buttons,
+#carousel .cloud9-item {
+    cursor: pointer;
+}
+
+#carousel-3d img {
+    width: 600px;
+    height: 400px;
+}
+
+
 #gallery h5 {
     text-align: center;
     padding: 20px 0;
