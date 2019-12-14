@@ -1,0 +1,26 @@
+{
+  "name": "layout",
+  "version": "1.0.0",
+  "description": "Practice with bootstrap.",
+  "main": "index.js",
+  "dependencies": {
+    "counterup2": "^1.0.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marker93/layOut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marker93/layOut/issues"
+  },
+  "homepage": "https://github.com/Marker93/layOut#readme"
+}
